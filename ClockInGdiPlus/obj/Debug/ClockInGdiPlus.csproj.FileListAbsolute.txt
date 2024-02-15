@@ -1,0 +1,9 @@
+E:\CGPP\ClockInGdiPlus\bin\Debug\ClockInGdiPlus.exe
+E:\CGPP\ClockInGdiPlus\bin\Debug\ClockInGdiPlus.pdb
+E:\CGPP\ClockInGdiPlus\obj\Debug\ClockInGdiPlus.csproj.AssemblyReference.cache
+E:\CGPP\ClockInGdiPlus\obj\Debug\ClockInGdiPlus.Form1.resources
+E:\CGPP\ClockInGdiPlus\obj\Debug\ClockInGdiPlus.Properties.Resources.resources
+E:\CGPP\ClockInGdiPlus\obj\Debug\ClockInGdiPlus.csproj.GenerateResource.cache
+E:\CGPP\ClockInGdiPlus\obj\Debug\ClockInGdiPlus.csproj.CoreCompileInputs.cache
+E:\CGPP\ClockInGdiPlus\obj\Debug\ClockInGdiPlus.exe
+E:\CGPP\ClockInGdiPlus\obj\Debug\ClockInGdiPlus.pdb
