@@ -169,8 +169,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_ --
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] CH1    Introduction
-- [x] CH2    Introduction to 2D Graphics Using WPF  
+- [x] CH1    Introduction                                                                  02/12/2024
+- [x] CH2    Introduction to 2D Graphics Using WPF                                         02/15/2024
 - [ ] CH3    An Anceient Renderer Made Modern
 - [ ] CH4    A 2D Graphics Test Bed
 - [ ] CH5    An Introduction to Human Visual Perception
@@ -234,7 +234,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-No license yet. Personal Study Archive.
+No license yet.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
