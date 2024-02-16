@@ -156,9 +156,11 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Personal Study Archive.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+<!-- Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_ -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,15 +169,45 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+- [x] CH1    Introduction
+- [x] CH2    Introduction to 2D Graphics Using WPF  
+- [ ] CH3    An Anceient Renderer Made Modern
+- [ ] CH4    A 2D Graphics Test Bed
+- [ ] CH5    An Introduction to Human Visual Perception
+- [ ] CH6    Introduction to Fixed-Function 3D Graphics and Hierarchical Modeling
+- [ ] CH7    Essential Mathematics and the Geometry of 2-Space and 3-Space
+- [ ] CH8    A simple Way to Describe Shape in 2D and 3D
+- [ ] CH9    Functions on Meshes
+- [ ] CH10   Transformations in Two Dimensions
+- [ ] CH11   Transformations in Three Dimensions
+- [ ] CH12   A 2D and 3D Transformation Library for Graphics
+- [ ] CH13   Camera Specifications and Transformations
+- [ ] CH14   Standard Approximations and Representations
+- [ ] CH15   Ray Casting and Rasterization
+- [ ] CH16   Survey of Real-Time 3D GRaphics Platforms
+- [ ] CH17   Image Representation and Manipulation
+- [ ] CH18   Images and Signal Processing
+- [ ] CH19   Enlarging and Shrinking Images
+- [ ] CH20   Textures and Texture Mapping
+- [ ] CH21   Interaction Techniques
+- [ ] CH22   Splines and Subdivision Curves
+- [ ] CH23   Splines and Subdivision Surface
+- [ ] CH24   Implicit Representations of Shape
+- [ ] CH25   Meshes
+- [ ] CH26   Light
+- [ ] CH27   Materials and Scattering
+- [ ] CH28   Color
+- [ ] CH29   Light Transport
+- [ ] CH30   Probability and Monte Carlo Integration
+- [ ] CH31   Computing Solutions to the Rendering Equation: Theorerical Approaches
+- [ ] CH32   Rendering in Practice
+- [ ] CH33   Shaders
+- [ ] CH34   Expressive Rendering
+- [ ] CH35   Motion
+- [ ] CH36   Visibility Determination
+- [ ] CH37   Spatial Data Structures
+- [ ] CH38   Modern Graphics Hardware
+<!-- See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues). -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -202,7 +234,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+No license yet. Personal Study Archive.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -211,9 +243,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Bin Fang - bin.frank.fang@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Yuigahama99/CGPP](https://github.com/Yuigahama99/CGPP)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
