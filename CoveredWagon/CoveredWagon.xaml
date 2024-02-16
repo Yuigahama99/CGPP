@@ -1,0 +1,113 @@
+<Canvas
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	Name="CoveredWagon" >
+	
+	<Canvas.Resources>
+		<ControlTemplate x:Key="SpokeStencil">
+			<Polygon
+				Points="-0.1,0 -0.1,0.8 0.1,0.8 0.1,0"
+				Fill="Black"/>
+		</ControlTemplate>
+
+		<ControlTemplate x:Key="WheelStencil">
+			<Canvas>
+				<Ellipse Width="2.0" Height="2.0"
+					Canvas.Left="-1.0" Canvas.Top="-1.0"
+					Fill="Black"/>
+				<Ellipse Width="1.6" Height="1.6"
+					Canvas.Left="-0.8" Canvas.Top="-0.8"
+					Fill="White"/>
+				<Control Name="Spoke1"
+					Template="{StaticResource SpokeStencil}">
+					<Control.RenderTransform>
+						<RotateTransform Angle="45"/>
+					</Control.RenderTransform>
+				</Control>
+				<Control Name="Spoke2"
+					Template="{StaticResource SpokeStencil}">
+					<Control.RenderTransform>
+						<RotateTransform Angle="135"/>
+					</Control.RenderTransform>
+				</Control>
+				<Control Name="Spoke3"
+					Template="{StaticResource SpokeStencil}">
+					<Control.RenderTransform>
+						<RotateTransform Angle="225"/>
+					</Control.RenderTransform>
+				</Control>
+				<Control Name="Spoke4"
+					Template="{StaticResource SpokeStencil}">
+					<Control.RenderTransform>
+						<RotateTransform Angle="315"/>
+					</Control.RenderTransform>
+				</Control>
+			</Canvas>
+		</ControlTemplate>
+	</Canvas.Resources>
+	
+	<Canvas Name="Wagon">
+		<Polygon Name="Cart"
+			Points="0,0 0,-5 10,-5, 10,0"
+			Fill="Blue"/>
+	
+		<Control Name="LeftWheel" Template="{StaticResource WheelStencil}">
+			<Control.RenderTransform>
+				<RotateTransform x:Name="LeftRotatingAngle"  Angle="0" />
+			</Control.RenderTransform>
+		</Control>
+		
+		<Control Name="RightWheel" Template="{StaticResource WheelStencil}">
+			<Control.RenderTransform>
+				<TransformGroup>
+					<TranslateTransform X="10" Y="0"/>
+					<RotateTransform x:Name="RightRotatingAngle"  Angle="0" CenterX="10" CenterY="0"/>
+				</TransformGroup>
+			</Control.RenderTransform>
+		</Control>
+		
+		<Canvas.RenderTransform>
+			<TranslateTransform x:Name="HorizontalMove" X="0" Y="0"/>
+		</Canvas.RenderTransform>
+	</Canvas>
+	
+	<Canvas.RenderTransform>
+     <TransformGroup>
+       <ScaleTransform ScaleX="4.8" ScaleY="4.8" CenterX="0" CenterY="0"/>
+       <TranslateTransform X="48" Y="48"/>
+     </TransformGroup>
+    </Canvas.RenderTransform>
+	
+	<Canvas.Triggers>
+		<EventTrigger RoutedEvent="FrameworkElement.Loaded">
+			<BeginStoryboard>
+				<Storyboard>
+					<DoubleAnimation 
+						Storyboard.TargetName="HorizontalMove"
+						Storyboard.TargetProperty="X" 
+						From="0.0" To="20.0" 
+						Duration="00:00:10.00" 
+						RepeatBehavior="Forever"
+						AutoReverse="true"/>
+				
+					<DoubleAnimation 
+						Storyboard.TargetName="LeftRotatingAngle"
+						Storyboard.TargetProperty="Angle" 
+						From="0.0" To="360.0" 
+						Duration="00:00:10.00" 
+						RepeatBehavior="Forever"
+						AutoReverse="true"/>
+					
+					<DoubleAnimation 
+						Storyboard.TargetName="RightRotatingAngle"
+						Storyboard.TargetProperty="Angle" 
+						From="0.0" To="360.0" 
+						Duration="00:00:10.00" 
+						RepeatBehavior="Forever"
+						AutoReverse="true"/>
+				</Storyboard>
+			</BeginStoryboard>
+		</EventTrigger>
+	</Canvas.Triggers>
+	
+</Canvas>
