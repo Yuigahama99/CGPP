@@ -80,7 +80,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Covered labs and apps introduced in CGPP. \n
+Covered labs and apps introduced in CGPP.\
 Also with my solution for exercise.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
