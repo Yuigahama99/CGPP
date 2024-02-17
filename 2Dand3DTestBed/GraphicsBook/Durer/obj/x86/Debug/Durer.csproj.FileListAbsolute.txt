@@ -1,0 +1,17 @@
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Durer\bin\Debug\Durer.exe.config
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Durer\bin\Debug\Durer.exe
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Durer\bin\Debug\Durer.pdb
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Durer\bin\Debug\Testbed2D.dll
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Durer\bin\Debug\Testbed2D.pdb
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Durer\obj\x86\Debug\Durer.csproj.AssemblyReference.cache
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Durer\obj\x86\Debug\MainWindow.baml
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Durer\obj\x86\Debug\MainWindow.g.cs
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Durer\obj\x86\Debug\App.g.cs
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Durer\obj\x86\Debug\Durer_MarkupCompile.cache
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Durer\obj\x86\Debug\Durer.g.resources
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Durer\obj\x86\Debug\GraphicsBook.Properties.Resources.resources
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Durer\obj\x86\Debug\Durer.csproj.GenerateResource.cache
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Durer\obj\x86\Debug\Durer.csproj.CoreCompileInputs.cache
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Durer\obj\x86\Debug\Durer.csproj.Up2Date
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Durer\obj\x86\Debug\Durer.exe
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Durer\obj\x86\Debug\Durer.pdb

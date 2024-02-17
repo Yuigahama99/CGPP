@@ -1,0 +1,9 @@
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Testbed2D\bin\Debug\Testbed2D.dll
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Testbed2D\bin\Debug\Testbed2D.pdb
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Testbed2D\obj\Debug\Testbed2D.csproj.AssemblyReference.cache
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Testbed2D\obj\Debug\Testbed2D.g.resources
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Testbed2D\obj\Debug\GraphicsBook.Properties.Resources.resources
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Testbed2D\obj\Debug\Testbed2D.csproj.GenerateResource.cache
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Testbed2D\obj\Debug\Testbed2D.csproj.CoreCompileInputs.cache
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Testbed2D\obj\Debug\Testbed2D.dll
+E:\CGPP\2Dand3DTestBed\GraphicsBook\Testbed2D\obj\Debug\Testbed2D.pdb
