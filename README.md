@@ -109,7 +109,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ### Prerequisites
 
-Computer Graphics: Orubcuokes and Practice
+Computer Graphics: Principles and Practice
 
 ### Installation
 
