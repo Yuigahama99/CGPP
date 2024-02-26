@@ -81,7 +81,7 @@
 ## About The Project
 
 Covered labs and apps introduced in CGPP.\
-Also with my solution for exercise.
+Also with some of my solutions for exercise.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,15 +120,15 @@ Simply clone the repo
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+<!-- ## Usage
 
-Personal Study Archive.
+Personal Study Archive. -->
 
 <!-- Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_ -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
