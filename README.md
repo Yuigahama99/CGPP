@@ -140,7 +140,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_ --
 - [x] CH3    An Anceient Renderer Made Modern
 - [x] CH4    A 2D Graphics Test Bed
 - [x] CH5    An Introduction to Human Visual Perception
-- [ ] CH6    Introduction to Fixed-Function 3D Graphics and Hierarchical Modeling
+- [x] CH6    Introduction to Fixed-Function 3D Graphics and Hierarchical Modeling
 - [ ] CH7    Essential Mathematics and the Geometry of 2-Space and 3-Space
 - [ ] CH8    A simple Way to Describe Shape in 2D and 3D
 - [ ] CH9    Functions on Meshes
